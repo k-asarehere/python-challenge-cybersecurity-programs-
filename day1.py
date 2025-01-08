@@ -22,4 +22,5 @@ results2 = mult(5,6)
 print('Multiplication:',results2)
 
 
-# I'm already a python dev :) ,and i prefer functions over basic arithmetic calculation 
+# test the code by running on your IDE terminal       
+        
