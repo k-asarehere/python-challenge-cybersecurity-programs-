@@ -12,7 +12,7 @@ results = current_year - age
 
 print(f'Hello! {name}, you were born in the year {results}')
 
-        
+# test the code by running on your IDE terminal       
         
         
                 
