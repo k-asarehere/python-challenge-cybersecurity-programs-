@@ -1,6 +1,5 @@
 # a script that reads a txt file and counts how many lines and words are in the file 
 # names.txt is already on my local pc 
-#from collections import Counter
 '''text.txt file:
 script for writing into text.txt file
 with open('text.txt', 'a') as f:
