@@ -16,7 +16,7 @@ def json_file(file_name, user_input):
     except KeyError:
         print(f"'{user_input}' not in json file")
     
-    except:
+    except: # catch any error 
        print('Invalid Input')
 
 # values from user
