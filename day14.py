@@ -1,5 +1,8 @@
-# write a program that interacts with the Github API to fetch user data(like profile information
+# write a program that interacts with the Github API to fetch user data(like profile information)
 
+# gitub profile info.
+
+# type any github username and you'll get the basic info about that username
 
 import requests  
 try:
