@@ -1,7 +1,7 @@
 # a program that scrapes a website(eg. news healines from a news site) and displays the results
-# this program gets the first news headline from the BBC website
+# this program gets the first news headline from the BBC website 
 import requests 
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup as bs # bs for simplicity so i won't be writing BeautifulSoup in full 
 
 try:
     url = 'https://www.bbc.co.uk'
