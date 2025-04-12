@@ -1,5 +1,6 @@
 # Symmetric Encryption Program.....same key for encryption and decryption 
 # This program encrypt and decrypt messages using one key(for both)
+# Run the program in your terminal
 
 from cryptography.fernet import Fernet 
 import ast 
